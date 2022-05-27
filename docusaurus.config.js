@@ -24,8 +24,8 @@ module.exports = {
       title: "Kaesar",
       logo: {
         alt: "Kaesar",
-        src: "img/logo.webp",
-        srcDark: "img/logo.webp",
+        src: "img/lu.jpg",
+        srcDark: "img/lu.jpg",
       },
       items: [
         // {
